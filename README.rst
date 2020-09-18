@@ -1,5 +1,7 @@
 .. image:: https://astronn.readthedocs.io/en/latest/astroNN_icon_withname_s.png
 
+<img src="https://astronn.readthedocs.io/en/latest/astroNN_icon_withname_s.png"  width="120" height="120">
+
 |
 
 .. image:: https://readthedocs.org/projects/astronn/badge/?version=latest
