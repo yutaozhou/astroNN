@@ -1,5 +1,6 @@
 .. image:: https://astronn.readthedocs.io/en/latest/astroNN_icon_withname_s.png
-  :width: 200
+  :width: 200 px
+  :scale: 50 %
 
 <img src="https://astronn.readthedocs.io/en/latest/astroNN_icon_withname_s.png"  width="120" height="120">
 
